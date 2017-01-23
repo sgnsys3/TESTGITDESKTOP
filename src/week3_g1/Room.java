@@ -12,6 +12,7 @@ package week3_g1;
 public class Room {
     private String name;
     private double area;
+    private double area51;
 
     public Room(String name, double area) {
         this.area = area;
